@@ -36,7 +36,7 @@ Suivez les étapes ci-dessous pour configurer et exécuter l'application en loca
 
 
 #### 1. Cloner le dépôt
-git clone https://github.com/adekomen/lien_routing_app.git
+git clone https://github.com/adekomen/routing_link_app.git
 cd lien_routing_app
 
 #### 2. Installer les dépendances
